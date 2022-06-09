@@ -23,3 +23,19 @@ Lorsque le joueur a accumulé assez de points d'expérience il level up (gagne u
 * Un système de particules
 * Des mouvements de caméra
 * Plusieurs menus
+
+
+
+### Aperçus
+
+![](<.gitbook/assets/image (2).png>)
+
+Sur la capture ci-dessus on découvre le personnage dans la ville avec toutes l'interface autour, en bas l'inventaire avec les slots, en haut à droite, en rouge la barre de vie et en dessous la barre d'expérience.
+
+![](.gitbook/assets/image.png)
+
+Ici on peu voir les ennemis qui se déplacent dans la ville, un couteau, qui est la premier arme disponible dans le jeu et la barre d'XP un peu remplie.
+
+![](<.gitbook/assets/image (1).png>)
+
+Et enfin le menu pause type GTA.
