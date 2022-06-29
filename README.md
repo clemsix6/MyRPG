@@ -16,8 +16,8 @@ Lorsque le joueur a accumulé assez de points d'expérience il level up (gagne u
 
 ### Caractéristiques
 
-* Gestion d'évenements
-* Sprites animmées
+* Gestion d'événements
+* Sprites animées
 * Les animations et les mouvements ne dépendent pas de la vitesse du PC
 * Un système de collisions
 * Un système de particules
@@ -30,11 +30,11 @@ Lorsque le joueur a accumulé assez de points d'expérience il level up (gagne u
 
 ![](<.gitbook/assets/image (2).png>)
 
-Sur la capture ci-dessus on découvre le personnage dans la ville avec toutes l'interface autour, en bas l'inventaire avec les slots, en haut à droite, en rouge la barre de vie et en dessous la barre d'expérience.
+Sur la capture ci-dessus, on découvre le personnage dans la ville avec toute l'interface autour, en bas l'inventaire avec les slots, en haut à droite, en rouge la barre de vie et en dessous la barre d'expérience.
 
 ![](.gitbook/assets/image.png)
 
-Ici on peu voir les ennemis qui se déplacent dans la ville, un couteau, qui est la premier arme disponible dans le jeu et la barre d'XP un peu remplie.
+Ici, on peut voir les ennemis qui se déplacent dans la ville, un couteau, qui est la première arme disponible dans le jeu et la barre d'XP un peu remplie.
 
 ![](<.gitbook/assets/image (1).png>)
 
